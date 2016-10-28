@@ -2,4 +2,6 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+- __Name:__ Jacquelyn Neal
+- __Ocupation:__ PhD Candidate in Biostatistics, Vanderbilt University
+- __Hobbies:__ Sleeping, Netflix, Fangirling about the musical Hamilton
