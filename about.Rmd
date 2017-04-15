@@ -1,9 +1,25 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-- __Name:__ Jacquelyn Neal
-- __Occupation:__ PhD Candidate in Biostatistics, Vanderbilt University
-- __Hobbies:__ Sleeping, Netflix, Fangirling about the musical Hamilton
+<img src="https://jacquelyneneal.github.io/figs/alexandraBelle.jpg" style="width:33%"/><img src="https://jacquelyneneal.github.io/figs/believeInNash.jpg" style="width:33%"/><img src="https://jacquelyneneal.github.io/figs/goodnessOfHit.jpg" style="height:300px;width:33%"/>
 
-<img src="figs/belle.jpg" alt="car" style="height:225px;"/>
+### Education
+- PhD Candidate in Biostatistics, Vanderbilt University
+- BS Agricultural and Biological Engineering, University of Florida
+
+<img src="https://jacquelyneneal.github.io/figs/tubing.jpg" style="width:33%;"/><img src="https://jacquelyneneal.github.io/figs/chattanoogaHike.jpg" style="width:33%;"/><img src="https://jacquelyneneal.github.io/figs/meGrandCanyon.jpg" style="height:225px;width:33%;"/>
+
+### Interests:
+  - Biostatistics
+  - Longitudinal Data
+  - Promoting Diversity and Women in STEM
+  - Progressive Disease, specifically Alzheimer's Disease
+  - Chronic Kidney Disease and Transplantation
+  - Not Dichotomizing Continuous Measures
+  - University of Florida (Go Gators!)
+  - US National Parks
+  - Hamilton: An American Musical
+  - Public Health
+
+<img src="https://jacquelyneneal.github.io/figs/bubbles.jpg" style="width:33%;"/><img src="https://jacquelyneneal.github.io/figs/charlotteFire.jpg" style="height:225px;width:33%;"/><img src="https://jacquelyneneal.github.io/figs/gatorRStudio.jpg" style="height:225px;width:33%;"/>
