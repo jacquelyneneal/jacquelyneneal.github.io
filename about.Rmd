@@ -1,7 +1,9 @@
 ---
-title: "About Me"
+title: "About"
 ---
 
 - __Name:__ Jacquelyn Neal
-- __Ocupation:__ PhD Candidate in Biostatistics, Vanderbilt University
+- __Occupation:__ PhD Candidate in Biostatistics, Vanderbilt University
 - __Hobbies:__ Sleeping, Netflix, Fangirling about the musical Hamilton
+
+<img src="figs/belle.jpg" alt="car" style="height:225px;"/>
