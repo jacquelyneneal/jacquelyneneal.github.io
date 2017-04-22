@@ -1,7 +1,5 @@
 ---
-title: "Manatees, using rOpenSci"
-author: "Jacquelyn Neal"
-date: "April 21, 2017"
+title: " "
 output:
   html_document: default
   pdf_document: default
@@ -27,6 +25,7 @@ dat <- occ_search(taxonKey=key,return='data')
 out <- occ(query = 'Trichechus manatus', from = 'gbif', has_coords = TRUE)
 map_plot(out)
 ```
+## Manatees, using rOpenSci
 ### Background
 I was born and raised in Southwest Florida, as a fourth-generation Floridian, and was lucky to have an amazing environmental education. After years of obsession with Florida's poster mammal, I had the opportunity to visit Crystal River and Homosassa Springs to snorkel with manatees twice while in middle school. So when I started learning the rgbif package, I decided to examine data on the mammal I've grown up studying.
 
