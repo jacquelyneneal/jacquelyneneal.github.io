@@ -2,4 +2,4 @@
 title: "Home"
 ---
 
-### Work in Progress! 
+<img src="https://jacquelyneneal.github.io/figs/Poster_ENAR2017.pdf"/>
