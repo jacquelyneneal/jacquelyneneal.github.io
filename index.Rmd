@@ -2,4 +2,8 @@
 title: "Home"
 ---
 
-<img src="https://jacquelyneneal.github.io/figs/Poster_ENAR2017.pdf"/>
+<object data="http://jacquelyneneal.github.io/figs/Poster_ENAR2017.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://jacquelyneneal.github.io/figs/Poster_ENAR2017.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://jacquelyneneal.github.io/figs/Poster_ENAR2017.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
