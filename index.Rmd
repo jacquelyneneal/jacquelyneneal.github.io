@@ -3,7 +3,7 @@ title: "Home"
 ---
 <div id="pdf">
   <object width="1000" height="500" type="application/pdf" data="http://jacquelyneneal.github.io/figs/Poster_ENAR2017.pdf" id="pdf_content">
-    <p>Insert your error message here, if the PDF cannot be displayed.</p>
+  <a href="http://jacquelyneneal.github.io/figs/Poster_ENAR2017.pdf">ENAR 2017 Poster</a>
   </object>
 </div>
 
