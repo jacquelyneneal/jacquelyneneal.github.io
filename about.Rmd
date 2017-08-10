@@ -22,4 +22,4 @@ title: "About Me"
   - Hamilton: An American Musical
   - Public Health
 
-<img src="https://jacquelyneneal.github.io/figs/bubbles.jpg" style="width:33%;"/><img src="https://jacquelyneneal.github.io/figs/charlotteFire.jpg" style="height:225px;width:33%;"/><img src="https://jacquelyneneal.github.io/figs/gatorRStudio.jpg" style="height:225px;width:33%;"/>
+<img src="https://jacquelyneneal.github.io/figs/bubbles.jpg" style="height:225px;width:37%;"/><img src="https://jacquelyneneal.github.io/figs/charlotteFire.jpg" style="height:225px;width:38%;"/><img src="https://jacquelyneneal.github.io/figs/gatorRStudio.jpg" style="height:225px;width:25%;"/>
