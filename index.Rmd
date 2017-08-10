@@ -1,9 +1,15 @@
 ---
 title: "Home"
 ---
+<div id="pdf">
+  <object width="1000" height="500" type="application/pdf" data="http://jacquelyneneal.github.io/figs/Poster_ENAR2017.pdf" id="pdf_content">
+    <p>Insert your error message here, if the PDF cannot be displayed.</p>
+  </object>
+</div>
 
-<img data="http://jacquelyneneal.github.io/figs/Poster_ENAR2017.jpeg" width="700px" height="700px">
-    <embed src="http://jacquelyneneal.github.io/figs/Poster_ENAR2017.jpeg">
 
-    </embed>
-</img>
+#<object data="http://jacquelyneneal.github.io/figs/Poster_ENAR2017.pdf" type="application/pdf" width="700px" height="700px">
+#    <embed src="http://jacquelyneneal.github.io/figs/Poster_ENAR2017.pdf">
+#        This browser does not support PDFs. Please download the PDF to view it: <a href="http://jacquelyneneal.github.io/figs/Poster_ENAR2017.pdf">Download PDF</a>.</p>
+#    </embed>
+#</object>
